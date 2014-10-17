@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lcf:home|Door43 (lcf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lcf|d43-lcf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lcf/archive/master.zip|d43-lcf.zip]]
+
+**Recent Changes**
+{{changes>ns = lcf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lcf|Ethnologue data]]
+
